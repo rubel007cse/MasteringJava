@@ -7,3 +7,5 @@ Best of Java Examples for Learning
 3. Java DataTypes examples
 4. Java Variables
 5. Knowing Java Operators
+6. Java Number and Java String learning
+7. Practicing Java Loops
