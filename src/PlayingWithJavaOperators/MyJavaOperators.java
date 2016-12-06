@@ -6,7 +6,7 @@ package PlayingWithJavaOperators;
 public class MyJavaOperators {
 
     public static void main(String[] args){
-
+        
         // ---- Arithmetic Operators ------
         int a = 10;
         int b = 20;
