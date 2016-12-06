@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="194853a2-4a2d-4ffa-8481-c30a3578b17a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UnderstandingClassAndObject/CheckingOutInnerClasses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestingJavaException/LearningAboutJavaException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestingJavaException/UsingFinallyBlock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestingJavaException/UsingThrowsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TestingJavaException/WithOutAppliyingTryCatch.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MasteringJava/UnderstandingClassAndObject/DeptOfCSE.class" afterPath="$PROJECT_DIR$/out/production/MasteringJava/UnderstandingClassAndObject/DeptOfCSE.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MasteringJava/UnderstandingClassAndObject/SoutheastUniversity.class" afterPath="$PROJECT_DIR$/out/production/MasteringJava/UnderstandingClassAndObject/SoutheastUniversity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UnderstandingClassAndObject/DeptOfCSE.java" afterPath="$PROJECT_DIR$/src/UnderstandingClassAndObject/DeptOfCSE.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UnderstandingClassAndObject/SoutheastUniversity.java" afterPath="$PROJECT_DIR$/src/UnderstandingClassAndObject/SoutheastUniversity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="MasteringJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,36 +29,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SoutheastUniversity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UnderstandingClassAndObject/SoutheastUniversity.java">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="255">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeptOfCSE.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UnderstandingClassAndObject/DeptOfCSE.java">
+      <file leaf-file-name="LearningAboutJavaException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestingJavaException/LearningAboutJavaException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-              <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckingOutInnerClasses.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UnderstandingClassAndObject/CheckingOutInnerClasses.java">
+      <file leaf-file-name="UsingFinallyBlock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestingJavaException/UsingFinallyBlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsingThrowsException.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestingJavaException/UsingThrowsException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WithOutAppliyingTryCatch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestingJavaException/WithOutAppliyingTryCatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -92,12 +108,17 @@
         <option value="$PROJECT_DIR$/src/LoopingThings/LoopPractice.java" />
         <option value="$PROJECT_DIR$/src/IfElseDecisionMaking/IfElseDecisionMaking.java" />
         <option value="$PROJECT_DIR$/src/MySwitchStatement/LearningSwitchStatement.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/ArrayFantastic/FantasticArrays.java" />
         <option value="$PROJECT_DIR$/src/MethodDude/DudeMethod.java" />
         <option value="$PROJECT_DIR$/src/UnderstandingClassAndObject/SoutheastUniversity.java" />
         <option value="$PROJECT_DIR$/src/UnderstandingClassAndObject/DeptOfCSE.java" />
         <option value="$PROJECT_DIR$/src/UnderstandingClassAndObject/CheckingOutInnerClasses.java" />
+        <option value="$PROJECT_DIR$/src/UnderstandingClassAndObject/MethodLocalInnerClass.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/TestingJavaException/LearningAboutJavaException.java" />
+        <option value="$PROJECT_DIR$/src/TestingJavaException/WithOutAppliyingTryCatch.java" />
+        <option value="$PROJECT_DIR$/src/TestingJavaException/UsingFinallyBlock.java" />
+        <option value="$PROJECT_DIR$/src/TestingJavaException/UsingThrowsException.java" />
       </list>
     </option>
   </component>
@@ -162,10 +183,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UnderstandingClassAndObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -180,6 +197,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TestingJavaException" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -188,87 +209,7 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="RunManager" selected="Application.SoutheastUniversity">
-    <configuration default="false" name="IfElseDecisionMaking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="IfElseDecisionMaking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="IfElseDecisionMaking.IfElseDecisionMaking" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MasteringJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="LearningSwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="MySwitchStatement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="MySwitchStatement.LearningSwitchStatement" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MasteringJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FantasticArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ArrayFantastic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ArrayFantastic.FantasticArrays" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MasteringJava" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DudeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="MethodDude.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="MethodDude.DudeMethod" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MasteringJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.UsingThrowsException">
     <configuration default="false" name="SoutheastUniversity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -277,6 +218,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="UnderstandingClassAndObject.SoutheastUniversity" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MasteringJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LearningAboutJavaException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TestingJavaException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TestingJavaException.LearningAboutJavaException" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MasteringJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WithOutAppliyingTryCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TestingJavaException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TestingJavaException.WithOutAppliyingTryCatch" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MasteringJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UsingFinallyBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TestingJavaException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TestingJavaException.UsingFinallyBlock" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MasteringJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UsingThrowsException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="TestingJavaException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="TestingJavaException.UsingThrowsException" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -534,19 +555,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.IfElseDecisionMaking" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LearningSwitchStatement" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FantasticArrays" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DudeMethod" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SoutheastUniversity" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SoutheastUniversity" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LearningAboutJavaException" />
+      <item index="2" class="java.lang.String" itemvalue="Application.WithOutAppliyingTryCatch" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UsingFinallyBlock" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UsingThrowsException" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SoutheastUniversity" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DudeMethod" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FantasticArrays" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LearningSwitchStatement" />
-        <item index="4" class="java.lang.String" itemvalue="Application.IfElseDecisionMaking" />
+        <item index="0" class="java.lang.String" itemvalue="Application.UsingThrowsException" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UsingFinallyBlock" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LearningAboutJavaException" />
+        <item index="3" class="java.lang.String" itemvalue="Application.WithOutAppliyingTryCatch" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SoutheastUniversity" />
       </list>
     </recent_temporary>
   </component>
@@ -676,14 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaDataTypes/MyDataTypesforJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -751,6 +764,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UnderstandingClassAndObject/MethodLocalInnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestingJavaException/WithOutAppliyingTryCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestingJavaException/LearningAboutJavaException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestingJavaException/UsingFinallyBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestingJavaException/UsingThrowsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
           <folding />
         </state>
       </provider>
