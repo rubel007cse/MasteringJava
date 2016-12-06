@@ -13,13 +13,11 @@ public class SoutheastUniversity {
         my_object.cse_faculties();
 
         /*
-            How to create a class object?
-
+            1. How to create a class object?
             ClassName ObjectName = new Class Constructor
             Example: DeptOfCSE object = new DeptOfCSE();
 
-            Hor to access a method from class by object?
-
+            2. How to access a method from class by object?
             object name . (dot) name of the method
             Example: object.my_methodName();
 
