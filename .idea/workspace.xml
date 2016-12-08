@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="194853a2-4a2d-4ffa-8481-c30a3578b17a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EncapsulationAndGetterSetter/ATMBooth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EncapsulationAndGetterSetter/BankDetails.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MasteringJava/InterfacesInJava/PlayingASong.class" afterPath="$PROJECT_DIR$/out/production/MasteringJava/InterfacesInJava/PlayingASong.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/JavaThread/MyThread.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InterfacesInJava/PlayingASong.java" afterPath="$PROJECT_DIR$/src/InterfacesInJava/PlayingASong.java" />
     </list>
     <ignored path="MasteringJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,18 +27,18 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            <state relative-caret-position="105">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ATMBooth.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ATMBooth.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EncapsulationAndGetterSetter/ATMBooth.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state relative-caret-position="90">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -66,6 +62,21 @@
                 <element signature="e#675#676#0" expanded="true" />
                 <element signature="e#724#725#0" expanded="true" />
                 <element signature="e#768#769#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaThread/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+              <folding>
+                <element signature="e#272#882#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#953#1328#0" expanded="true" />
+                <element signature="e#1327#1328#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/EncapsulationJava/ATMBooth.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/EncapsulationAndGetterSetter/ATMBooth.java" />
+        <option value="$PROJECT_DIR$/src/JavaThread/MyThread.java" />
       </list>
     </option>
   </component>
@@ -213,7 +225,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EncapsulationAndGetterSetter" />
+              <option name="myItemId" value="JavaThread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,27 +239,7 @@
       <recent name="$PROJECT_DIR$/src/InheritancePro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ATMBooth">
-    <configuration default="false" name="OverRidingAndOverLoadingPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="OverRidingAndOverLoading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="OverRidingAndOverLoading.OverRidingAndOverLoadingPractice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MasteringJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MyThread">
     <configuration default="false" name="DynamicPolyMorphismSubclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -316,6 +308,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="EncapsulationAndGetterSetter.ATMBooth" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MasteringJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="JavaThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="JavaThread.MyThread" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -573,19 +585,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OverRidingAndOverLoadingPractice" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DynamicPolyMorphismSubclass" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PolymorphismHome" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PlayingASong" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ATMBooth" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DynamicPolyMorphismSubclass" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PolymorphismHome" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PlayingASong" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ATMBooth" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MyThread" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ATMBooth" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PlayingASong" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PolymorphismHome" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DynamicPolyMorphismSubclass" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OverRidingAndOverLoadingPractice" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MyThread" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ATMBooth" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PlayingASong" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PolymorphismHome" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DynamicPolyMorphismSubclass" />
       </list>
     </recent_temporary>
   </component>
@@ -988,8 +1000,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EncapsulationAndGetterSetter/ATMBooth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -1015,11 +1035,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EncapsulationAndGetterSetter/ATMBooth.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaThread/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="1020">
+          <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+          <folding>
+            <element signature="e#272#882#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#953#1328#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
