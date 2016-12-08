@@ -1,6 +1,6 @@
 # MasteringJava
-Best of Java Examples for Learning
-
+Best of Java Examples for Learning.
+[Go to /src folder from above for exploring details examples with comments to each code line.]
 # Example of Following topics
 1. HelloWorld : My first Java program
 2. Learning Basic Java Syntax
