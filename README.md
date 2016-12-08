@@ -20,3 +20,5 @@ Best of Java Examples for Learning.
 16. Java Polymorphism
 17. Abstraction in Java
 18. Learning Java Interfaces
+19. Encapsulation in Java & Getter Setter
+20.

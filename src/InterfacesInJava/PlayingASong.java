@@ -12,7 +12,7 @@ public class PlayingASong implements MyCoolMusicPlayer {
         ps.my_cool_method();
 
         // printing variable
-        System.out.println("Value is: " + MyCoolMusicPlayer.my_age);
+        System.out.println("My Age is: " + MyCoolMusicPlayer.my_age);
 
     }
 
