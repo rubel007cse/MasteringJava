@@ -11,7 +11,7 @@ public class DeptOfCSE {
     }
 
     public static void cse_classroom(){
-        System.out.println("SEU CSE is got 30 class rooms!");
+        System.out.println("ITEDept CSE is got 30 class rooms!");
     }
 
 
