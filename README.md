@@ -22,3 +22,4 @@ Best of Java Examples for Learning.
 18. Learning Java Interfaces
 19. Encapsulation in Java & Getter Setter
 20. Java Thread
+21. Java Constructor
