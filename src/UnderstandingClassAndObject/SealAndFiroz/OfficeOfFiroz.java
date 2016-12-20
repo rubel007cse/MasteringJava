@@ -10,6 +10,8 @@ public class OfficeOfFiroz {
         // Creating Object
         Seal obj = new Seal();
 
+        System.out.println("Printing Real Seal...");
+
         // Real Seal
         obj.name();
         obj.designation();
