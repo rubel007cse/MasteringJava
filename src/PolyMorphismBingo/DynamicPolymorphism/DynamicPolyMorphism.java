@@ -3,19 +3,19 @@ package PolyMorphismBingo.DynamicPolymorphism;
 /**
  * Created by mosharrofrubel on 12/8/16.
  */
-public class DynamicPolyMorphismSubclass {
+public class DynamicPolyMorphism {
     public static void main(String[] args ){
 
-        DynamicPolyMorphismSuperclass _obj;
+        MyPython obj;
 
-        _obj = new DynamicPolyMorphismSuperclass();
-        _obj.learning_programming();
+        obj = new MyPython();
+        obj.learning_programming();
 
 
         // creating another object with 'MyJava' class
         // As DynamicPolyMorphismSuperclass extended 'MyJava' so, we'll get properties of it because of Inheritance
-        _obj = new MyJava();
-        _obj.learning_programming();
+        obj = new MyJava();
+        obj.learning_programming();
 
 
         // So, here same object  acted differently! Just because of polymorphism.

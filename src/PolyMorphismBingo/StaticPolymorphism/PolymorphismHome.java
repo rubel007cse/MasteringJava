@@ -13,7 +13,7 @@ public class PolymorphismHome {
         System.out.println(m_object.multiply_numbers(3,5));
         System.out.println(m_object.multiply_numbers(3,4,5));
 
-        // Same methods, behaving differently - This is called polymorphism
+        // Same methods, behaving differently - This is called static polymorphism
 
 
     }

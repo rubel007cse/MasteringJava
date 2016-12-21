@@ -1,4 +1,4 @@
-package InheritancePro.Hierarchical;
+package InheritancePro.TypesOfInheritance.Hierarchical;
 
 /**
  * Created by mosharrofrubel on 12/20/16.

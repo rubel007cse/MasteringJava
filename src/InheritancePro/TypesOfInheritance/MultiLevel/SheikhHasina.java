@@ -1,9 +1,9 @@
-package InheritancePro.MultiLevel;
+package InheritancePro.TypesOfInheritance.MultiLevel;
 
 /**
  * Created by mosharrofrubel on 12/20/16.
  */
-public class SajeebWazed extends SheikhHasina {
+public class SheikhHasina extends SheikhMujib {
 
 
     // SajeebWazed class extends SheikhHasina class, SheikhHasina class extends SheikhMujib class
