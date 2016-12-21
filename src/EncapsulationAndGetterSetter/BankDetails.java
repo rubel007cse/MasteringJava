@@ -28,7 +28,7 @@ public class BankDetails {
     }
 
     public int getPin_number() {
-        return pin_number;
+            return pin_number;
     }
 
     public void setPin_number(int pin_number) {
