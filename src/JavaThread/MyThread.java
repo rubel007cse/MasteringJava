@@ -14,7 +14,7 @@ public class MyThread implements Runnable {
          Then the codes in run should be executed. So, go check t1.start() first.
          */
         public void run() {
-            for (int k = 0; k <= 20; k++) {
+            for (int k = 0; k <= 3; k++) {
                 System.out.println("File 1 downloading " + k * 5 + "%");
 
                 try {
@@ -33,7 +33,7 @@ public class MyThread implements Runnable {
 
     Thread t2 = new Thread() {
         public void run() {
-            for (int k = 0; k <= 20; k++) {
+            for (int k = 0; k <= 3; k++) {
                 System.out.println("File 2 Downloading " + k * 5 + "%");
 
                 try {
@@ -76,11 +76,7 @@ public class MyThread implements Runnable {
 
     @Override
     public void run() {
-        for (int p = 0; p <= 10; p++) {
             System.out.println("This is my T3 thread!");
-
-        }
-
     }
 
 }
