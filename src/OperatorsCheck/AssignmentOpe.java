@@ -37,6 +37,10 @@ public class AssignmentOpe {
         i5 %= j5;
         System.out.println("i5%=j5 : "+i5);
 
+
+        int i7 = 30;
+        System.out.println(i7<<2);
+
     }
 
 }
