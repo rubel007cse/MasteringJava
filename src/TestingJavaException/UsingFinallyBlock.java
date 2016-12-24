@@ -14,7 +14,7 @@ public class UsingFinallyBlock {
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("The Exception is :" + e);
         } finally {
-            System.out.println("Something went wrong unexpectedly!");
+            System.out.println("Finally block executed..");
         }
 
         // -- We can use 'finally block' if we want to take a decision after executing try-catch
