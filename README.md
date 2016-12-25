@@ -29,3 +29,5 @@ Best of Java Examples for Learning.
 25. Java Access Modifier
 26. Super KeyWord
 27. Java Enum
+28. Java Singleton
+29. Generics
