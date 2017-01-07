@@ -23,6 +23,7 @@ public class WithAL {
         al.add("AP");
         al.add("TANZ");
 
+        // remove comment sign to see compile time error
        // al.add(12);
 
 

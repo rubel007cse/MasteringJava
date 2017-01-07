@@ -1,6 +1,5 @@
 package Generics.GenClass;
 
-import java.util.Iterator;
 
 /**
  * Created by mosharrofrubel on 1/7/17.
