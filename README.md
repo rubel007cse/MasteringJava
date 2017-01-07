@@ -31,6 +31,7 @@ Best of Java Examples for Learning.
 27. Java Enum
 28. Java Singleton
 29. Generics
+30. Collections
 
 ##About Me
 Software Specialist |  Java/Android Dev | Author | Lecturer at Southeast University (Part time)
