@@ -43,4 +43,7 @@ public class MyCoolVariable {
         // 'month' can't be accessed as it's a local variable
     }
 
+
+
+
 }
