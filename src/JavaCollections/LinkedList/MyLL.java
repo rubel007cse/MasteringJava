@@ -35,9 +35,6 @@ public class MyLL {
 
         }
 
-        // manupulating an item
-
-
         // let's remove Movie 2
         my_movie_list.remove(1);
 
