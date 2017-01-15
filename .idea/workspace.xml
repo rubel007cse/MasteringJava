@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="194853a2-4a2d-4ffa-8481-c30a3578b17a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InheritancePro/example1/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InheritancePro/example1/Library.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InheritancePro/example2/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InheritancePro/example2/Lecturer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InheritancePro/example2/Varsity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InterfacesInJava/example/JarvisTheme.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InterfacesInJava/example/Wordpress.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MasteringJava/InheritancePro/example2/Lecturer.class" afterPath="$PROJECT_DIR$/out/production/MasteringJava/InheritancePro/example2/Lecturer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/InheritancePro/example2/Lecturer.java" afterPath="$PROJECT_DIR$/src/InheritancePro/example2/Lecturer.java" />
     </list>
     <ignored path="MasteringJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,36 +27,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Lecturer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/InheritancePro/example2/Lecturer.java">
+      <file leaf-file-name="JarvisTheme.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InterfacesInJava/example/JarvisTheme.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="135">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Department.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InheritancePro/example2/Department.java">
+      <file leaf-file-name="Wordpress.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InterfacesInJava/example/Wordpress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Varsity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InheritancePro/example2/Varsity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="64" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+            <state relative-caret-position="429">
+              <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,6 +58,7 @@
         <option value="AnnotationType" />
         <option value="Enum" />
         <option value="Singleton" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -86,8 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaThread/UsingRunnable.java" />
-        <option value="$PROJECT_DIR$/src/JavaThread/WithOutExtending.java" />
         <option value="$PROJECT_DIR$/src/JavaThread/MyThread.java" />
         <option value="$PROJECT_DIR$/src/TestingJavaException/LearningAboutJavaException.java" />
         <option value="$PROJECT_DIR$/src/TestingJavaException/MultipleCatch.java" />
@@ -137,6 +123,8 @@
         <option value="$PROJECT_DIR$/src/InheritancePro/example2/Varsity.java" />
         <option value="$PROJECT_DIR$/src/InheritancePro/example2/Department.java" />
         <option value="$PROJECT_DIR$/src/InheritancePro/example2/Lecturer.java" />
+        <option value="$PROJECT_DIR$/src/InterfacesInJava/example/JarvisTheme.java" />
+        <option value="$PROJECT_DIR$/src/InterfacesInJava/example/Wordpress.java" />
       </list>
     </option>
   </component>
@@ -217,7 +205,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InheritancePro" />
+              <option name="myItemId" value="InterfacesInJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,11 +223,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InheritancePro" />
+              <option name="myItemId" value="InterfacesInJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="example2" />
+              <option name="myItemId" value="example" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -254,27 +242,7 @@
       <recent name="$PROJECT_DIR$/src/InheritancePro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lecturer">
-    <configuration default="false" name="SeeMobile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Generics.examples.example2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Generics.examples.example2.SeeMobile" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MasteringJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Wordpress">
     <configuration default="false" name="GenericMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -343,6 +311,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="InheritancePro.example2.Lecturer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MasteringJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Wordpress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="InterfacesInJava.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="InterfacesInJava.example.Wordpress" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -600,19 +588,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.SeeMobile" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GenericMethods" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LiftMechanism" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Book" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Lecturer" />
+      <item index="0" class="java.lang.String" itemvalue="Application.GenericMethods" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LiftMechanism" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Book" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Lecturer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Wordpress" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Lecturer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Book" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LiftMechanism" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GenericMethods" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SeeMobile" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Wordpress" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Lecturer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Book" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LiftMechanism" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GenericMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -649,7 +637,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.509693" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.49353796" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296355" sideWeight="0.49353796" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.49030694" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -714,34 +702,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/OperatorsCheck/AssignmentOpe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaDataTypes/MyDataTypesforJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyFirstJavaProgram/MyFirstJavaClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MethodDude/DudeMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UnderstandingClassAndObject/CheckingOutInnerClasses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1129,10 +1089,10 @@
         <state relative-caret-position="45">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="false" />
+            <element signature="e#205#206#0" expanded="false" />
+            <element signature="e#234#235#0" expanded="false" />
+            <element signature="e#319#320#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1166,11 +1126,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InheritancePro/example2/Lecturer.java">
+    <entry file="file://$PROJECT_DIR$/src/InterfacesInJava/PlayingASong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterfacesInJava/MyCoolMusicPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritancePro/example2/Lecturer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterfacesInJava/example/JarvisTheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InterfacesInJava/example/Wordpress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
