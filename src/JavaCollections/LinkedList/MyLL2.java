@@ -1,6 +1,5 @@
 package JavaCollections.LinkedList;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 
 /**

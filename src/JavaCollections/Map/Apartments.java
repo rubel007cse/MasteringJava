@@ -15,11 +15,11 @@ public class Apartments {
         apartments.put("1B", "Leo Ahmed");
         apartments.put("2A", "Tanzila Islam");
         apartments.put("2B", "Sheikh Mizan");
-        apartments.put("3A", "Ashriqur Rahman");
+        apartments.put("3A", "Ashiqur Rahman");
         apartments.put("3B", "Monirul Hasan");
 
         // printing all values from HashMap
-        System.out.println("No\t\tOwner\n-----------------------");
+        System.out.println("A/No\t\tOwner\n-----------------------");
         for(Map.Entry appar : apartments.entrySet()){
 
             System.out.println(appar.getKey()+"\t\t"+appar.getValue());
