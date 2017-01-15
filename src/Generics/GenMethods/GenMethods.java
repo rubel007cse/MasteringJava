@@ -1,4 +1,4 @@
-package Generics;
+package Generics.GenMethods;
 
 /**
  * Created by mosharrofrubel on 12/26/16.
