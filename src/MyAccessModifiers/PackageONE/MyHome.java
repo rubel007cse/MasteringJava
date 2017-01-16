@@ -1,5 +1,4 @@
 package MyAccessModifiers.PackageONE;
-
 import MyAccessModifiers.PackageTWO.MyDiary;
 
 /**
