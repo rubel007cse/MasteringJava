@@ -10,7 +10,7 @@ public class Student {
     // We used object from 'Subjects' class, this is aggregation
     Subjects s;
 
-    // delacring a method to show a student
+    // declaring a method to show a student
     public void show_student(){
         name = "Borno";
         id = 1;
