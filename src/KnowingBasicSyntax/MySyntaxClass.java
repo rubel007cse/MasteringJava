@@ -18,7 +18,7 @@ public class MySyntaxClass {
 
         // Here, 'i' is  a variable name. Also an identifier.
         int i=10;
-        // 'int' is a datatype. Another example1 of data type is 'String'
+        // 'int' is a datatype. Another exercise1 of data type is 'String'
         String s = "Southeast University";
 
 

@@ -30,7 +30,7 @@ public class MyDataTypesforJava {
 
         // Scanner is a java class for taking inputs from console
         Scanner my_scan = new Scanner(System.in);
-        // Here 'my_scan' variable is an example1 of Reference/Object Data Type
+        // Here 'my_scan' variable is an exercise1 of Reference/Object Data Type
 
 
 
