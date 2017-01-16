@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="194853a2-4a2d-4ffa-8481-c30a3578b17a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LoopingThings/exercise/MyLoops.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodDude/exercise/LearningMethods.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MasteringJava/LoopingThings/exercise/MyLoops.class" afterPath="$PROJECT_DIR$/out/production/MasteringJava/LoopingThings/exercise/MyLoops.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="MasteringJava.iws" />
@@ -24,20 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyLoops.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LoopingThings/exercise/MyLoops.java">
+      <file leaf-file-name="LearningMethods.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MethodDude/exercise/LearningMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="146">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoopPractice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LoopingThings/LoopPractice.java">
+      <file leaf-file-name="DudeMethod.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MethodDude/DudeMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
+            <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
@@ -68,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/ArrayFantastic/examples/Example1.java" />
         <option value="$PROJECT_DIR$/src/ArrayFantastic/examples/ArrayExample1.java" />
         <option value="$PROJECT_DIR$/src/ArrayFantastic/examples/ArrayExample2.java" />
@@ -119,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/JavaThread/exercise/ThreadExer2.java" />
         <option value="$PROJECT_DIR$/src/KnowingBasicSyntax/exercise/SyntaxPrac.java" />
         <option value="$PROJECT_DIR$/src/LoopingThings/exercise/MyLoops.java" />
+        <option value="$PROJECT_DIR$/src/MethodDude/exercise/LearningMethods.java" />
       </list>
     </option>
   </component>
@@ -198,7 +202,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LoopingThings" />
+              <option name="myItemId" value="MethodDude" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -216,7 +220,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LoopingThings" />
+              <option name="myItemId" value="MethodDude" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -236,27 +240,7 @@
       <recent name="$PROJECT_DIR$/src/InheritancePro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyLoops">
-    <configuration default="false" name="DTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="JavaDataTypes.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="JavaDataTypes.exercise.DTypes" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MasteringJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.LearningMethods">
     <configuration default="false" name="ThreadExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -325,6 +309,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="LoopingThings.exercise.MyLoops" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MasteringJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="LearningMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MethodDude.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="MethodDude.exercise.LearningMethods" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -582,19 +586,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DTypes" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ThreadExer" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ThreadExer2" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SyntaxPrac" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MyLoops" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ThreadExer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThreadExer2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SyntaxPrac" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MyLoops" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LearningMethods" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MyLoops" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SyntaxPrac" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ThreadExer2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ThreadExer" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DTypes" />
+        <item index="0" class="java.lang.String" itemvalue="Application.LearningMethods" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyLoops" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SyntaxPrac" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ThreadExer2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ThreadExer" />
       </list>
     </recent_temporary>
   </component>
@@ -696,21 +700,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InterfacesInJava/exercise/JarvisTheme.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsAandHasA/exercise/Toyto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/IsAandHasA/TechCompany.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1122,9 +1111,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LoopingThings/exercise/MyLoops.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="354">
+          <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodDude/DudeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MethodDude/exercise/LearningMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
