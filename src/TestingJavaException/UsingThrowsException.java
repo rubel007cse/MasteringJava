@@ -6,6 +6,7 @@ import java.io.IOException;
  * Created by mosharrofrubel on 12/6/16.
  */
 public class UsingThrowsException {
+
     public static void main(String[] args) {
 
         try{
