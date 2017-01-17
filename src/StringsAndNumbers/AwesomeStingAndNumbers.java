@@ -1,7 +1,5 @@
 package StringsAndNumbers;
 
-import static java.lang.Math.abs;
-
 /**
  * Created by mosharrofrubel on 12/6/16.
  */
