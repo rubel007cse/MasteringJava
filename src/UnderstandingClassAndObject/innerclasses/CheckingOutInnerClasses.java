@@ -1,4 +1,4 @@
-package UnderstandingClassAndObject;
+package UnderstandingClassAndObject.innerclasses;
 
 /**
  * Created by mosharrofrubel on 12/6/16.

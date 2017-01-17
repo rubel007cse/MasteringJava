@@ -1,4 +1,4 @@
-package UnderstandingClassAndObject;
+package UnderstandingClassAndObject.SEUExample;
 
 /**
  * Created by mosharrofrubel on 12/6/16.
