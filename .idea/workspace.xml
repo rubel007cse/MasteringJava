@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="194853a2-4a2d-4ffa-8481-c30a3578b17a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SimplySingleTon/MySingleTon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StringsAndNumbers/exercise/AwesomeStingAndNumbers.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MasteringJava/StringsAndNumbers/AwesomeStingAndNumbers.class" afterPath="$PROJECT_DIR$/out/production/MasteringJava/StringsAndNumbers/AwesomeStingAndNumbers.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SuperKeyWord/exercise/MyPc.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SuperKeyWord/exercise/PcOfMyBrother.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringsAndNumbers/AwesomeStingAndNumbers.java" afterPath="$PROJECT_DIR$/src/StringsAndNumbers/AwesomeStingAndNumbers.java" />
     </list>
     <ignored path="MasteringJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,35 +25,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MySingleTon.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimplySingleTon/MySingleTon.java">
+      <file leaf-file-name="AdamjeeCollege.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SuperKeyWord/AdamjeeCollege.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AwesomeStingAndNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StringsAndNumbers/AwesomeStingAndNumbers.java">
+      <file leaf-file-name="AdamjeeSchool.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SuperKeyWord/AdamjeeSchool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="-49">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AwesomeStingAndNumbers.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StringsAndNumbers/exercise/AwesomeStingAndNumbers.java">
+      <file leaf-file-name="MyPc.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SuperKeyWord/exercise/MyPc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PcOfMyBrother.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SuperKeyWord/exercise/PcOfMyBrother.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding>
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,8 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaAbstraction/example/SocialLife.java" />
-        <option value="$PROJECT_DIR$/src/JavaAbstraction/example/Facebook.java" />
         <option value="$PROJECT_DIR$/src/JavaAbstraction/example/Twitter.java" />
         <option value="$PROJECT_DIR$/src/JavaAbstraction/example/Login.java" />
         <option value="$PROJECT_DIR$/src/JavaAbstraction/example1/Login.java" />
@@ -135,6 +149,8 @@
         <option value="$PROJECT_DIR$/src/PolyMorphismBingo/exercises/staticPoly/PlacingOrder.java" />
         <option value="$PROJECT_DIR$/src/StringsAndNumbers/AwesomeStingAndNumbers.java" />
         <option value="$PROJECT_DIR$/src/StringsAndNumbers/exercise/AwesomeStingAndNumbers.java" />
+        <option value="$PROJECT_DIR$/src/SuperKeyWord/exercise/PcOfMyBrother.java" />
+        <option value="$PROJECT_DIR$/src/SuperKeyWord/exercise/MyPc.java" />
       </list>
     </option>
   </component>
@@ -214,7 +230,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StringsAndNumbers" />
+              <option name="myItemId" value="SuperKeyWord" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,29 +248,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StringsAndNumbers" />
+              <option name="myItemId" value="SuperKeyWord" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="exercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasteringJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasteringJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimplySingleTon" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,27 +272,7 @@
       <recent name="$PROJECT_DIR$/src/InheritancePro" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AwesomeStingAndNumbers">
-    <configuration default="false" name="LogicalExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="OperatorsCheck.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="OperatorsCheck.exercise.LogicalExer" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MasteringJava" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.MyPc">
     <configuration default="false" name="Parking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -363,6 +341,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="StringsAndNumbers.exercise.AwesomeStingAndNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MasteringJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MyPc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="SuperKeyWord.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="SuperKeyWord.exercise.MyPc" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -620,19 +618,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LogicalExer" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Parking" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Zoo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PlacingOrder" />
-      <item index="4" class="java.lang.String" itemvalue="Application.AwesomeStingAndNumbers" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Parking" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Zoo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PlacingOrder" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AwesomeStingAndNumbers" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MyPc" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.AwesomeStingAndNumbers" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PlacingOrder" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Zoo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Parking" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LogicalExer" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MyPc" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AwesomeStingAndNumbers" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PlacingOrder" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Zoo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Parking" />
       </list>
     </recent_temporary>
   </component>
@@ -734,34 +732,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaThread/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="742" column="16" selection-start-line="742" selection-start-column="16" selection-end-line="742" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaThread/exercise/ThreadExer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KnowingBasicSyntax/MySyntaxClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/KnowingBasicSyntax/exercise/SyntaxPrac.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1071,8 +1041,8 @@
         <state relative-caret-position="120">
           <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
           <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="false" />
+            <element signature="e#189#190#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1114,8 +1084,8 @@
         <state relative-caret-position="360">
           <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
           <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="false" />
+            <element signature="e#235#236#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1141,17 +1111,9 @@
         <state relative-caret-position="165">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#245#246#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringsAndNumbers/AwesomeStingAndNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1165,9 +1127,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StringsAndNumbers/exercise/AwesomeStingAndNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="354">
           <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringsAndNumbers/AwesomeStingAndNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SuperKeyWord/AdamjeeCollege.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SuperKeyWord/AdamjeeSchool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SuperKeyWord/exercise/PcOfMyBrother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SuperKeyWord/exercise/MyPc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
