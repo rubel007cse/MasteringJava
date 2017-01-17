@@ -28,7 +28,7 @@ public class MyCoolVariable {
 
 
 
-        // salary  variable is a static variable
+        // salary  variable is a staticPoly variable
         System.out.println(my_salary);
 
     }

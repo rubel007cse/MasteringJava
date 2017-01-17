@@ -5,7 +5,7 @@ package NonAccessModifiers;
  */
 public class Dhaka {
 
-    // ---------- static exercise ------------
+    // ---------- staticPoly exercises ------------
     static String population = "160m";
 
     static void housing(){
@@ -13,7 +13,7 @@ public class Dhaka {
     }
 
 
-    // ---------- final exercise ------------
+    // ---------- final exercises ------------
     final String dhaka_area = "104 sq miles";
 
     // trying to change dhaka_area values

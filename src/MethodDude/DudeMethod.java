@@ -36,8 +36,8 @@ public class DudeMethod {
 
 
     /*
-        'static' keyword in java is used for memory management mainly.
-        we access method statically by using static keyword.
+        'staticPoly' keyword in java is used for memory management mainly.
+        we access method statically by using staticPoly keyword.
      */
 
 }
