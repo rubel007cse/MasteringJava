@@ -11,6 +11,9 @@ public class JavaBegins {
         System.out.println("My name is Sayan");
         System.out.println("I am learning java");
         System.out.println("Mastering Java");
+
+
+        // this is a comment
     }
 
 }
